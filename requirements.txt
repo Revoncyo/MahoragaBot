@@ -1,1 +1,5 @@
-discord.pyyt-dlpPyNaClrequestsFlask
+discord.py
+yt-dlp
+PyNaCl
+requests
+Flask
